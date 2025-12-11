@@ -15,7 +15,7 @@ I’m a passionate learner who is currently building a solid foundation in backe
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (On the Way to Master them)
 
 ### **Languages**
 - JavaScript  
@@ -23,17 +23,17 @@ I’m a passionate learner who is currently building a solid foundation in backe
 - Python  
 - SQL  
 
-### **Backend**
+### **Backend** (On the Way to Master them)
 - Node.js  
 - Express.js  
 - Laravel  
 - REST API
 
-### **AI & Data**
+### **AI & Data** (On the Way to Master them)
 - Python (Numpy, Pandas, Matplotlib)  
 - Curious about ML frameworks (TensorFlow, PyTorch — learning phase)
 
-### **Tools**
+### **Tools** (On the Way to Master them)
 - Git & GitHub  
 - VS Code  
 - Postman  
