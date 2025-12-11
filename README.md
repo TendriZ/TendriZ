@@ -14,90 +14,28 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-## 🛠 Tech Stack (Horizontal Icons + Text)
+## 🛠 Tech Stack (Horizontal Icons)
 
----
-
-## <h3 align="center">Languages</h3>
 <p align="center">
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=js" width="55"/>
-    <br>JavaScript
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=php" width="55"/>
-    <br>PHP
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=python" width="55"/>
-    <br>Python
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-    <br>MySQL
-  </div>
+  <img src="https://skillicons.dev/icons?i=js,php,python,mysql" />
 </p>
 
----
+### 💻 Backend
 
-## <h3 align="center">Backend</h3>
 <p align="center">
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
-    <br>Node.js
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=express" width="55"/>
-    <br>Express
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=laravel" width="55"/>
-    <br>Laravel
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=postman" width="55"/>
-    <br>Postman
-  </div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postman" />
 </p>
 
----
+### 🧠 AI & Data
 
-## <h3 align="center">AI & Data</h3>
 <p align="center">
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=python" width="55"/>
-    <br>Python (AI)
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=linux" width="55"/>
-    <br>Linux
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-    <br>VS Code
-  </div>
+  <img src="https://skillicons.dev/icons?i=python,linux,vscode" />
 </p>
 
----
+### 🔧 Tools
 
-## <h3 align="center">Tools</h3>
 <p align="center">
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=git" width="55"/>
-    <br>Git
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=github" width="55"/>
-    <br>GitHub
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=figma" width="55"/>
-    <br>Figma
-  </div>
-  <div style="display:inline-block; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-    <br>VS Code
-  </div>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
