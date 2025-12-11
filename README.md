@@ -9,7 +9,7 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 - Interested in **Backend Engineering** (Node.js, Laravel)
 - Learning **AI**, **machine learning**, and **data science**
 - Beginner but committed to continuous growth
-- Currently exploring the **JavaScript ecosystem**
+- Exploring the **JavaScript ecosystem**
 - Enjoy problem solving & building real-world systems
 
 ---
@@ -17,53 +17,108 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ## 🛠 Tech Stack
 
 ### <h2 align="center">Languages</h2>
+<p align="center">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>
+    JavaScript
+  </div>
+  <br/>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br/>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>MySQL</td>
-  </tr>
-</table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>
+    PHP
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+    Python
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+    MySQL
+  </div>
+</p>
 
 ---
 
 ### <h2 align="center">Backend</h2>
+<p align="center">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
+    Node.js
+  </div>
+  <br/>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br/>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>Laravel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>Postman</td>
-  </tr>
-</table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=express" width="50"/><br/>
+    Express
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>
+    Laravel
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>
+    Postman
+  </div>
+</p>
 
 ---
 
 ### <h2 align="center">AI & Data</h2>
+<p align="center">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+    Python (AI)
+  </div>
+  <br/>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/>Python (AI)</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>VS Code</td>
-  </tr>
-</table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>
+    Linux
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+    VS Code
+  </div>
+</p>
 
 ---
 
 ### <h2 align="center">Tools</h2>
+<p align="center">
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+    Git
+  </div>
+  <br/>
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>Figma</td>
-  </tr>
-</table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+    GitHub
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+    VS Code
+  </div>
+  <br/>
+
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>
+    Figma
+  </div>
+</p>
 
 ---
 
@@ -71,7 +126,7 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 - Improve backend architecture  
 - Build real-world REST APIs  
 - Advance Python for AI  
-- Start ML mini projects  
+- Start ML projects  
 - Learn DevOps basics (Docker, CI/CD)  
 
 ---
@@ -90,9 +145,9 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ## 🤝 Connect With Me
-- **Email:** rakarazzani24@gmail.com  
-- **Instagram:** instagram.com/rakarazzani  
-- **ML Nickname:** sanz rinz sahabatan  (ayo mabar)
+- Email: **rakarazzani24@gmail.com**  
+- Instagram: **instagram.com/rakarazzani**  
+- ML nickname: **sanz rinz sahabatan**
 
 ---
 
