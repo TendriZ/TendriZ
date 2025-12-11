@@ -18,10 +18,11 @@ I’m a passionate learner who is currently building a solid foundation in backe
 ## 🛠 Tech Stack (On the Way to Master them)
 
 ### **Languages**
-- JavaScript  
-- PHP  
-- Python  
-- SQL  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,python,nodejs,express,laravel,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+</p>
+
 
 ### **Backend** (On the Way to Master them)
 - Node.js  
@@ -52,9 +53,13 @@ I’m a passionate learner who is currently building a solid foundation in backe
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tendriz&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendriz&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tendriz&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendriz&layout=compact&theme=tokyonight&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tendriz&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
