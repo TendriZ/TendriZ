@@ -60,9 +60,10 @@ I’m a passionate learner who is currently building a solid foundation in backe
 ---
 
 ## 🤝 Connect With Me
-- Email: your-email@example.com  
-- LinkedIn: (optional)  
-- Instagram: (optional)  
+- Email: rakarazzani24@gmail.com  
+- LinkedIn: (soon)  
+- Instagram: www.instagram.com/rakarazzani
+- ML nickname : sanz rinz sahabatan (ayo mabar)  
 
 ---
 
