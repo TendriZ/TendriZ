@@ -6,108 +6,46 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ## 🚀 About Me
-- Interested in **Backend Engineering** (Node.js, Laravel)
-- Learning **AI**, **machine learning**, and **data science**
-- Beginner but committed to continuous growth
-- Exploring the **JavaScript ecosystem**
-- Enjoy problem solving & building real-world systems
+* Interested in **Backend Engineering** (Node.js, Laravel)
+* Learning **AI**, **machine learning**, and **data science**
+* Beginner but committed to continuous growth
+* Exploring the **JavaScript ecosystem**
+* Enjoy problem solving & building real-world systems
 
 ---
 
-## 🛠 Tech Stack (Horizontal Icons + Text)
+## 🛠 Tech Stack (Horizontal Icons)
 
----
-
-## <h2 align="center">Languages</h2>
 <p align="center">
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
-    JavaScript
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=php" width="55"/><br/>
-    PHP
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
-    Python
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
-    MySQL
-  </div>
+  <img src="https://skillicons.dev/icons?i=js,php,python,mysql" />
 </p>
 
----
+### 💻 Backend
 
-## <h2 align="center">Backend</h2>
 <p align="center">
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
-    Node.js
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=express" width="55"/><br/>
-    Express
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=laravel" width="55"/><br/>
-    Laravel
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=postman" width="55"/><br/>
-    Postman
-  </div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postman" />
 </p>
 
----
+### 🧠 AI & Data
 
-## <h2 align="center">AI & Data</h2>
 <p align="center">
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
-    Python (AI)
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=linux" width="55"/><br/>
-    Linux
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
-    VS Code
-  </div>
+  <img src="https://skillicons.dev/icons?i=python,linux,vscode" />
 </p>
 
----
+### 🔧 Tools
 
-## <h2 align="center">Tools</h2>
 <p align="center">
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
-    Git
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=github" width="55"/><br/>
-    GitHub
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=figma" width="55"/><br/>
-    Figma
-  </div>
-  <div align="center" style="display:inline-block; margin: 0 20px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
-    VS Code
-  </div>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
 ---
 
 ## 📌 Current Learning Goals
-- Improve backend architecture  
-- Build real-world REST APIs  
-- Advance Python for AI  
-- Start ML projects  
-- Learn DevOps basics (Docker, CI/CD)  
+* Improve backend architecture  
+* Build real-world REST APIs  
+* Advance Python for AI  
+* Start ML projects  
+* Learn DevOps basics (Docker, CI/CD)  
 
 ---
 
@@ -119,9 +57,7 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ## 🤝 Connect With Me
-- Email: **rakarazzani24@gmail.com**  
-- Instagram: **instagram.com/rakarazzani**  
-- ML nickname: **sanz rinz sahabatan**
+* Email: **rakarazzani24@gmail.com** * Instagram: **instagram.com/rakarazzani** * ML nickname: **sanz rinz sahabatan**
 
 ---
 
