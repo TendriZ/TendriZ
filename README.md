@@ -6,50 +6,50 @@ I’m a passionate learner who is currently building a solid foundation in backe
 ---
 
 ## 🚀 About Me
-- 🔧 Interested in **Backend Engineering**, especially using **JavaScript (Node.js)** and **Laravel (PHP)**  
-- 🤖 Learning more about **AI**, **machine learning**, and **data science**  
-- 📚 Still a beginner, but committed to continuous improvement  
-- 🌱 Currently exploring the JavaScript ecosystem (Node.js, Express, Next.js)  
-- 🧩 Love solving problems and creating useful systems  
-- 🛠 Have experience building simple projects for coursework and personal learning
+- Interested in **Backend Engineering** (Node.js, Laravel)
+- Learning **AI**, **machine learning**, and **data science**
+- Beginner but committed to continuous growth
+- Currently exploring the **JavaScript ecosystem**
+- Enjoy problem solving & building useful systems
 
 ---
 
-## 🛠 Tech Stack (On the Way to Master them)
+## 🛠 Tech Stack (On the Way to Master Them)
 
-### <h1 align ="center"><strong>Languages</strong></h1>
+### <h2 align="center">Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,python,nodejs,express,laravel,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=js,php,python,mysql" />
 </p>
 
---- 
+---
 
-### ### <h1 align ="center"><strong>Backend</strong></h1>
+### <h2 align="center">Backend</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" /><br/>
-  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postman" />
 </p>
 
-### **AI & Data** (On the Way to Master them)
-- Python (Numpy, Pandas, Matplotlib)  
-- Curious about ML frameworks (TensorFlow, PyTorch — learning phase)
+---
 
-### **Tools** (On the Way to Master them)
-- Git & GitHub  
-- VS Code  
-- Postman  
-- MySQL  
-- Linux basics  
+### <h2 align="center">AI & Data</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,linux" />
+</p>
+
+---
+
+### <h2 align="center">Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql,linux,figma" />
+</p>
 
 ---
 
 ## 📌 Current Learning Goals
-- Strengthen backend architecture skills  
-- Build real-world API systems  
-- Learn more advanced Python for AI  
-- Start small ML projects  
-- Explore DevOps basics later (Docker, CI/CD)
+- Improve backend architecture skills  
+- Build real-world REST APIs  
+- Advance Python for AI  
+- Start ML mini projects  
+- Learn DevOps basics (Docker, CI/CD)  
 
 ---
 
@@ -63,14 +63,12 @@ I’m a passionate learner who is currently building a solid foundation in backe
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tendriz&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-
 ---
 
 ## 🤝 Connect With Me
 - Email: rakarazzani24@gmail.com  
-- LinkedIn: (soon)  
-- Instagram: www.instagram.com/rakarazzani
-- ML nickname : sanz rinz sahabatan (ayo mabar)  
+- Instagram: www.instagram.com/rakarazzani  
+- ML nickname : sanz rinz sahabatan  
 
 ---
 
