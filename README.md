@@ -1,7 +1,7 @@
 # Hi, I'm Raka 👋  
 Backend Developer | AI & Data Enthusiast
 
-I’m a passionate learner interested in backend engineering, artificial intelligence, and data science. I enjoy exploring how systems work behind the scenes, how data turns into insight, and how code can create meaningful experiences.
+I’m a passionate learner interested in backend engineering, artificial intelligence, and data science. I enjoy exploring how systems work behind the scenes, how data becomes insight, and how code can shape user experience.
 
 ---
 
@@ -14,30 +14,26 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Horizontal Icons + Text)
+
+---
 
 ### <h2 align="center">Languages</h2>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
     JavaScript
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=php" width="55"/><br/>
     PHP
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
     Python
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
     MySQL
   </div>
 </p>
@@ -45,27 +41,21 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ### <h2 align="center">Backend</h2>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
     Node.js
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=express" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=express" width="55"/><br/>
     Express
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=laravel" width="55"/><br/>
     Laravel
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=postman" width="55"/><br/>
     Postman
   </div>
 </p>
@@ -73,21 +63,17 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ### <h2 align="center">AI & Data</h2>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
     Python (AI)
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=linux" width="55"/><br/>
     Linux
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
     VS Code
   </div>
 </p>
@@ -95,28 +81,22 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ### <h2 align="center">Tools</h2>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
     Git
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=github" width="55"/><br/>
     GitHub
   </div>
-  <br/>
-
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
-    VS Code
-  </div>
-  <br/>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>
+    <img src="https://skillicons.dev/icons?i=figma" width="55"/><br/>
     Figma
+  </div>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
+    VS Code
   </div>
 </p>
 
@@ -132,7 +112,6 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=tendriz&show_icons=true&theme=tokyonight&border_radius=12" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendriz&layout=compact&theme=tokyonight&border_radius=12" />
