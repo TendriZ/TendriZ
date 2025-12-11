@@ -17,18 +17,19 @@ I’m a passionate learner who is currently building a solid foundation in backe
 
 ## 🛠 Tech Stack (On the Way to Master them)
 
-### **Languages**
+### <h1 align ="center"><strong>Languages</strong></h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,python,nodejs,express,laravel,mysql" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
 </p>
 
+--- 
 
-### **Backend** (On the Way to Master them)
-- Node.js  
-- Express.js  
-- Laravel  
-- REST API
+### ### <h1 align ="center"><strong>Backend</strong></h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" /><br/>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
 ### **AI & Data** (On the Way to Master them)
 - Python (Numpy, Pandas, Matplotlib)  
