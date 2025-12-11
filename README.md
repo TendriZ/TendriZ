@@ -18,21 +18,21 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-### <h2 align="center">Languages</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <div align="center">
+## <h2 align="center">Languages</h2>
+<p align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
     JavaScript
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=php" width="55"/><br/>
     PHP
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
     Python
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
     MySQL
   </div>
@@ -40,21 +40,21 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-### <h2 align="center">Backend</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <div align="center">
+## <h2 align="center">Backend</h2>
+<p align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
     Node.js
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=express" width="55"/><br/>
     Express
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=laravel" width="55"/><br/>
     Laravel
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=postman" width="55"/><br/>
     Postman
   </div>
@@ -62,17 +62,17 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-### <h2 align="center">AI & Data</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <div align="center">
+## <h2 align="center">AI & Data</h2>
+<p align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
     Python (AI)
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=linux" width="55"/><br/>
     Linux
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
     VS Code
   </div>
@@ -80,21 +80,21 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-### <h2 align="center">Tools</h2>
-<p align="center" style="display: flex; justify-content: center; gap: 40px;">
-  <div align="center">
+## <h2 align="center">Tools</h2>
+<p align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=git" width="55"/><br/>
     Git
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=github" width="55"/><br/>
     GitHub
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=figma" width="55"/><br/>
     Figma
   </div>
-  <div align="center">
+  <div align="center" style="display:inline-block; margin: 0 20px;">
     <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br/>
     VS Code
   </div>
@@ -112,11 +112,6 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tendriz&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendriz&layout=compact&theme=tokyonight&border_radius=12" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tendriz&theme=tokyo-night&hide_border=true&area=true" />
 </p>
