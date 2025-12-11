@@ -57,7 +57,9 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 ---
 
 ## 🤝 Connect With Me
-* Email: **rakarazzani24@gmail.com** * Instagram: **instagram.com/rakarazzani** * ML nickname: **sanz rinz sahabatan**
+* Email: **rakarazzani24@gmail.com**
+* Instagram: **instagram.com/rakarazzani** 
+* ML nickname: **sanz rinz sahabatan**
 
 ---
 
