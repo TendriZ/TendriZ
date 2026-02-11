@@ -14,7 +14,7 @@ I’m a passionate learner interested in backend engineering, artificial intelli
 
 ---
 
-## 🛠 Tech Stack (Horizontal Icons)
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,python,mysql" />
