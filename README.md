@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=tendriz&theme=tokyo-night&hide_border=true&area=true" />
+  [![GitHub Activity Graph](https://vercel.app)](https://github.com/tendriz/github-readme-activity-graph?)
 </p>
