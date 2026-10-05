@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://github.com/tendriz/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tendriz&theme=react-dark" alt="GitHub Activity Graph" />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tendriz&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
